@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "108190291218",
+    "firebase_url": "https://fir-55101-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-55101",
+    "storage_bucket": "fir-55101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108190291218:android:f383da2220adc5b4fc8fcb",
+        "android_client_info": {
+          "package_name": "com.ceec_system_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108190291218-s90fndolsvs7rvenoj7qr4jfh4b7mj14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZOMtvXrLaNTPy_oYiaEuNkpbEHv6SW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108190291218-s90fndolsvs7rvenoj7qr4jfh4b7mj14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
